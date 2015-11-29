@@ -1,12 +1,11 @@
-TurnPlayer
-==========
+#TurnPlayer
 
 PhoneGap SoundCloud Player
 
-TurnPlayer est un lecteur qui a pour objectif de vous faire découvrir de nouvelles musiques grâce à SoundCloud.<br>
+TurnPlayer is a music player that help you to discover new musics from SoundCloud.<br>
 
-1 - Faites tourner le disque <br>
-2 - Stoppez le pour lancer la lecture<br>
-3 - Ecoutez ou recommencez ! <br>
+1 - Turn the disk <br>
+2 - Stop it to play the song<br>
+3 - Listen, or turn it again ! <br>
 
-<i>Ebauche de projet réalisée pour un TP de développement mobile PhoneGap.</i>
+<i>This is a project develop during my master's degree first year </i>
